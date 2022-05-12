@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.7",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "tgwll72v",
+    "id": "cl31xbjff035501ldy1wu67uu",
+    "url": "https://server.staging-os.amplication-dev.com/cl31xbjff035501ldy1wu67uu",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl31xbjff035501ldy1wu67uu",
+      "authProvider": "Jwt"
+    }
+  }
+}
